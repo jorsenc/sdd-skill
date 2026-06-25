@@ -1,0 +1,23 @@
+# SDD Skill Dependencies
+# Python 3.11+
+
+# Core
+pyyaml>=6.0          # For OpenAPI/AsyncAPI parsing
+Pydantic>=2.0        # Data validation
+python-dotenv>=1.0   # Environment variables
+
+# GitHub Integration
+PyGithub>=1.60       # GitHub API client
+requests>=2.31       # HTTP requests
+
+# Code Analysis
+pylint>=3.0          # Code linting
+black>=24.0          # Code formatting
+
+# Testing & Validation
+pytest>=7.0          # Testing framework
+pytest-cov>=4.0      # Coverage reporting
+
+# Utilities
+click>=8.0           # CLI framework
+rich>=13.0           # Rich terminal output

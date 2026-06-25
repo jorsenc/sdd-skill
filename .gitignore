@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Generated files
+*.log
+*.pot
+*.mo
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# SDD generated files (but keep .specify templates)
+.specify/features/*/
+!.specify/templates/
+
+# OS specific
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node (if future integration needed)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# GitHub Actions
+.github/workflows/ci.yml.bak
+
+# Keep documentation
+!docs/
+!docs/**
