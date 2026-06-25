@@ -78,16 +78,22 @@ Ver [sdd-skill/examples/simple_api.md](./sdd-skill/examples/simple_api.md) - Tut
 
 ### 📚 Aprender SDD
 
-**[docs/SDD_METHODOLOGY.md](./docs/SDD_METHODOLOGY.md)** - Metodología completa
+**[docs/Desarrollo Guiado por Especificaciones.md](./docs/Desarrollo%20Guiado%20por%20Especificaciones.md)** - Documento completo en Markdown (68KB)
+- Investigación académica completa
+- SDD theory y foundations
+- Maturity levels y workflows
+- EARS syntax reference
+- Multi-agent patterns y case studies
+- Enterprise adoption strategies
+
+**[docs/SDD_METHODOLOGY.md](./docs/SDD_METHODOLOGY.md)** - Resumen condensado
 - Historia de SDD
 - Transaction Cost Economics (base teórica)
 - Design by Contract
 - EARS syntax reference
 - Casos de uso empresariales
 
-**[docs/Desarrollo Guiado por Especificaciones.docx](./docs/)** - Documento original (40+ páginas)
-- Investigación académica completa
-- Referencias y citations
+**[docs/Desarrollo Guiado por Especificaciones.docx](./docs/)** - Documento original (Word)
 
 ---
 
